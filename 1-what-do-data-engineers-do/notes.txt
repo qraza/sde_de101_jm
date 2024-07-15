@@ -1,0 +1,7 @@
+gather data from various resources which include databases; platforms (Api); data lakes; csvs etc.
+transform the data based business logic.
+model the data (destination dependednt)
+load the data to its intended destination (usually data warehouse)
+build piplelines and schedule refresh using orchestration tools (airflow eg) or cron (linux)
+DW management
+Buld dashboards
